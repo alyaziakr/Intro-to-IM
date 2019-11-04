@@ -1,0 +1,11 @@
+OOP Assignment 
+
+My OOP assignment was a very basic game incorporating Object Oriented Programming. I started off just trying to learn classes and how to use them through learning how to make bubbles I made the boxes. I made an array of Squares and made their size, color and speed random. I wanted to somehow control the squares and turn that into a game. That’s how I went onto using clicking to play. In the end it is a game where you have to click fast enough to release all of the squares before the timer runs out.
+
+These two tutorials helped me a lot in making the game
+
+Game screen and game guide: https://www.toptal.com/game/ultimate-guide-to-processing-simple-game
+
+OOP Tutorial: https://www.youtube.com/watch?v=YcbcfkLzgvs&t=2s
+
+I struggled a bit with millis, it’s simple in theory but when attempting to use it in the code I struggled a lot. Especially with attempting to start the timer when the game starts but I couldn’t wrap my head around it and use it the same way we used blink without delay back when we used Arduino. In the end, the timer have started when the program starts adds excitement to the game so hey maybe it’s just a “feature”.
