@@ -1,0 +1,9 @@
+Generative Text: Night Thoughts
+
+Concept: Sometimes thoughts occupy too much space in your head at night that you’re unable to sleep. These include existential crises, everyday worries and more. Through this program I attempt to visualize this feeling with a drawing and interactive text.
+
+Behavior: The program displays sentences that appear on the screen as you move your mouse around to emulate and visualize the thought process that goes through people's minds when they're trying to fall asleep at night. Every time you click another thought appears.
+
+I collected sentences by asking people on social media what keeps them up at night and I combined them in the string array. 
+
+Issues: Programming this assignment went rather smoothly, I only struggled with figuring out the way I wanted to show the sentences. I also had the problem with using the delay and millis because I did want to stop the program but stopping it delayed the change of thoughts, but then again that shows the dragging of thoughts at night.
