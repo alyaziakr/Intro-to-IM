@@ -1,0 +1,7 @@
+Physical Controller: Alarm Clock
+
+Concept: Waking up the sleeping man who’s late for work by activating his alarm.
+
+Behavior: A picture of a man sleeping is displayed, when you touch the alarm he wakes up angry with alarm sounds blazing until you remove your hand from the sensor on top of the clock.
+
+Issues: I struggled with getting the alarm to play because the draw loop kept restarting the sound but I ended up creating an if statement before playing so it doesn’t keep repeating. 
