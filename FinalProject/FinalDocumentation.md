@@ -6,7 +6,8 @@ The concept of my project is sort of an outfit builder. You choose individual pa
 
 Color/Gesture Sensor and a desk lamp
 
-** Images: **
+**Images:**
+
 Overall Picture:
 
 ![](Images/overall.jpg)
